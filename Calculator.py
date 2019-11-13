@@ -1,6 +1,10 @@
 from __future__ import print_function
 
 # Program make a simple calculator that can add, subtract, multiply and divide using functions
+# Version 0.1.1
+# Created by Mr. Turner
+
+
 # This function adds two numbers 
 def add(x, y):
     return x + y
@@ -19,7 +23,6 @@ def multiply(x, y):
 # This function divides two numbers
 def divide(x, y):
     return x / y
-
 
 print("Select operation.")
 print("1.Add")
